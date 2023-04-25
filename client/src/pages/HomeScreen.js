@@ -2,14 +2,14 @@ import React from 'react'
 import {Box} from '@mui/material'
 import SideBar from '../components/SideBar';
 import {Route,Routes} from 'react-router-dom'
-import Welcome from '../components/Welcome';
-import ChatScreen from '../components/ChatScreen';
+import HomeScreenWrapper from '../components/HomeScreen';
+import Chat from '../components/Chat';
 
 const AllRoutes = ()=>{
   return(
     <Routes>
-      <Route path="/" element={<Welcome/>} />
-      <Route path="/:id/:name" element={<ChatScreen />} />
+      <Route path="/" element={<HomeScreenWrapper/>} />
+      <Route path="/:id/:name" element={<Chat />} />
     </Routes>
   )
 }

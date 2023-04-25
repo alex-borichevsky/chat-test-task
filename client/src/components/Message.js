@@ -1,7 +1,7 @@
 import React from 'react'
 import { Typography ,Box} from '@mui/material';
 
-const MessageCard = ({text,date,direction}) => {
+const Message = ({text,date,direction}) => {
   return (
       <Box
       display="flex"
@@ -23,4 +23,4 @@ const MessageCard = ({text,date,direction}) => {
   )
 }
 
-export default MessageCard
+export default Message

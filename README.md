@@ -2,11 +2,11 @@
 
 Fullstack chat
 
-![img_2.png](img_2.png)
+![image](https://user-images.githubusercontent.com/81485449/234232886-076b39f5-a529-4859-b7b5-8afc205d55fa.png)
 
-![img_3.png](img_3.png)
+![image](https://user-images.githubusercontent.com/81485449/234232922-4b312025-7e4e-4a8d-9280-544097a9b813.png)
 
-![img_4.png](img_4.png)
+![image](https://user-images.githubusercontent.com/81485449/234232952-2e2269a4-a7e8-4933-8adf-452375d5082b.png)
 ---
 
 ## Running the app

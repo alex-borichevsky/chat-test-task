@@ -21,9 +21,12 @@ start the client:
 2) npm i
 3) npm start
 
-Then go to http://localhost:3000 to interact with client
+Then go to http://localhost:3000 to interact with client.
 Also you can go to http://localhost:4000/graphql to interact with graphql 
 ---
+
+## How to use application
+Sign up/sign into the system and then enter to chat 
 ## Running the database migrations
 npx prisma migrate dev --name init 
 
